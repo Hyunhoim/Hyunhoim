@@ -23,7 +23,7 @@ LLM과 기존 소프트웨어 기술을 결합한 실용적인 AI 서비스 개�
 
 **AI & LLM**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-315B89?style=flat-square) ![HyperCLOVA X](https://img.shields.io/badge/HyperCLOVA%20X-315B89?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini-315B89?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-315B89?style=flat-square) ![CLOVA Speech](https://img.shields.io/badge/CLOVA%20Speech-315B89?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-315B89?style=flat-square) ![HyperCLOVA X](https://img.shields.io/badge/HyperCLOVA%20X-315B89?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini-315B89?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-315B89?style=flat-square) ![KURE-v1](https://img.shields.io/badge/KURE--v1-315B89?style=flat-square) ![CLOVA Speech](https://img.shields.io/badge/CLOVA%20Speech-315B89?style=flat-square)
 
 **Backend & Data**
 
@@ -47,7 +47,7 @@ LLM과 기존 소프트웨어 기술을 결합한 실용적인 AI 서비스 개�
 | :--- | :--- |
 | [**바른누리 · Bareun-Nuri**](https://github.com/Hyunhoim/Bareun-Nuri) | LLM과 CPU 파인튜닝 모델, 웹 요소 분석을 결합한 공공 웹사이트 불법광고 탐지 Agent |
 | [**MY_CSE**](https://github.com/Hyunhoim/MY_CSE) | Gemini 기반 공지 자동 분류와 Firebase를 활용한 학과 통합 모바일 서비스 · 팀 프로젝트 |
-| [**금융상품 AI Agent**](https://github.com/Hyunhoim/gaeng3) | 근거 기반 금융상품 조회·비교 서비스 · AI Agent 단독 개발 |
+| [**금융상품 AI Agent**](https://github.com/Hyunhoim/gaeng3) | HCX-007과 KURE-v1 기반 금융상품 검색·비교·근거 검증 Agent · AI Agent 단독 개발 |
 | [**담소 · Damso**](https://github.com/Hyunhoim/Damso) | 음성 전사·LLM 요약과 디지털 서재를 결합한 가족 소통 앱 |
 
 ## Engineering Interests
