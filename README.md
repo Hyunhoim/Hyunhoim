@@ -47,7 +47,7 @@ LLM과 기존 소프트웨어 기술을 결합한 실용적인 AI 서비스 개�
 | :--- | :--- |
 | [**바른누리 · Bareun-Nuri**](https://github.com/Hyunhoim/Bareun-Nuri) | LLM과 CPU 파인튜닝 모델, 웹 요소 분석을 결합한 공공 웹사이트 불법광고 탐지 Agent |
 | [**MY_CSE**](https://github.com/Hyunhoim/MY_CSE) | Gemini 기반 공지 자동 분류와 Firebase를 활용한 학과 통합 모바일 서비스 · 팀 프로젝트 |
-| [**금융상품 AI Agent**](https://github.com/Hyunhoim/gaeng3) | 근거 기반 금융상품 조회·비교 서비스 · Frontend & Backend 담당 |
+| [**금융상품 AI Agent**](https://github.com/Hyunhoim/gaeng3) | 근거 기반 금융상품 조회·비교 서비스 · AI Agent 단독 개발 |
 | [**담소 · Damso**](https://github.com/Hyunhoim/Damso) | 음성 전사·LLM 요약과 디지털 서재를 결합한 가족 소통 앱 |
 
 ## Engineering Interests
